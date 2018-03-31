@@ -1,6 +1,8 @@
-﻿namespace CrystalReportDataTable.DataSet {
-    
-    
-    public partial class dsProduct {
+﻿namespace CrystalReportDataTable.DataSet
+{
+
+
+    public partial class dsProduct
+    {
     }
 }
